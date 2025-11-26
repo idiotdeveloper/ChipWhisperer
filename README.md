@@ -1,8 +1,9 @@
 
 Notes : 
-https://chipwhisperer.readthedocs.io/en/latest/windows-install.html - installation guide 
-pip install ipympl  -- this is required but not mentioned in the installation guide. 
-Some of the older libraries mentioned in the document are depreciated so need to use alternatives. 
+	
+	https://chipwhisperer.readthedocs.io/en/latest/windows-install.html - installation guide 
+	pip install ipympl  -- this is required but not mentioned in the installation guide. 
+	Some of the older libraries mentioned in the document are depreciated so need to use alternatives. 
 
 Installed in my desktop under Ubuntu24_chipwhisperer VirtualBox
 To launch the jupyter notebook 
