@@ -5,8 +5,8 @@ Notes :
 	pip install ipympl  -- this is required but not mentioned in the installation guide. 
 	Some of the older libraries mentioned in the document are depreciated so need to use alternatives. 
 
-Installed in my desktop under Ubuntu24_chipwhisperer VirtualBox
-To launch the jupyter notebook 
+Installed in Ubuntu24
+To launch the jupyter notebook :
 
 	Ø cd ~/Documents/ChipWhisperer/chipwhisperer 
 	Ø source ~/.cwvenv/bin/activate 
