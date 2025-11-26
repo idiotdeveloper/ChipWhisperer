@@ -15,7 +15,7 @@ To launch the jupyter notebook :
 
 Confirming if our notebook is working fine and ready to start with the connections, 
 
-https://github.com/newaetech/chipwhisperer-jupyter/blob/main/0%20-%20Introduction%20to%20Jupyter%20Notebooks.ipynbh
+https://github.com/newaetech/chipwhisperer-jupyter/blob/main/0%20-%20Introduction%20to%20Jupyter%20Notebooks.ipynb
 
 POC : 
 
